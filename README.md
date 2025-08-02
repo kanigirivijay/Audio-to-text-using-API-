@@ -1,3 +1,9 @@
+
+THE CODE IS ALSO IN THE READ ME 
+
+
+
+
 This project is a Streamlit-based web application that leverages the power of the OpenAI Whisper model to translate audio from any language into English text. It provides a clean, interactive interface for users to upload audio files, perform the translation, and download the results.
 
 Key Features
